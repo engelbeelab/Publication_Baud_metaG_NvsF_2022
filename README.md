@@ -3,7 +3,7 @@
 Scripts for the "Ecological turnover of strain-level diversity in the honeybee gut microbiota between nurses and foragers" manuscript.
 =======
 
-This repository contains the necessary scripts and metadata required to reproduce the analyses and figures from the "Ecological turnover of strain-level diversity in the honeybee gut microbiota between nurses and foragers" manuscript. THey use metagenomic data from honeybee gut DNA sequencing with Illumina.
+This repository contains the necessary scripts and metadata required to reproduce the analyses and figures from the "Ecological turnover of strain-level diversity in the honeybee gut microbiota between nurses and foragers" manuscript. They use metagenomic data from honeybee gut DNA sequencing with Illumina.
 
 Most of the scripts and analyses from this manuscript have been adapted, developed or taken directly from the work of Kirsten Ellegaard, in particular the following publications:
 
