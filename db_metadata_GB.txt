@@ -1,0 +1,212 @@
+IMG_acc	Genbank_acc	Locus_tag	Locus_tag_orig	Strain_name	Strain_name_orig	Phylotype	SDP	Species	Host	Study	Origin	Ref
+NA	PSZL	C4S75		wkB309		Apibacter	api_1	Apibacter sp.	Apis cerana	Kwong et al. (2018)	"Genting, Malaysia"	No
+2785510743	NA	Ga0307799		ESL0404		Apibacter	api_1	Apibacter sp.	Apis cerana	Ellegaard et al. (2020)	"Yokohama, Japan"	No
+2799112231	NA	Ga0312307		ESL0432		Apibacter	api_1	Apibacter sp.	Apis cerana	Ellegaard et al. (2020)	"Tsukuba, Japan"	Yes
+NA	PSZN	C4S76		wkB180		Apibacter	api_apis_dorsa	Apibacter adventoris	Apis dorsata	Kwong et al. (2018)	Singapore	Yes
+NA	PSZM	C4S77		wkB301		Apibacter	api_apis_dorsa	Apibacter adventoris	Apis dorsata	Kwong et al. (2018)	"Kuala Lumpur, Malaysia"	No
+2615840617	LIVM	Ga0061079		R-53146		Apibacter	api_bombus	Apibacter mensalis	Bombus lapidarius	Kwong et al. (2018)	"Ghent, Belgium"	Yes
+2751185858	CP015625.1	BBC0122		BBC0122		Bartonella	bapis	Bartonella apis	Apis mellifera	Segers et al. (2017)	"Switzerland, Engel apiary"	Yes
+2751185853	CP015820.1	BBC0178		BBC0178		Bartonella	bapis	Bartonella apis	Apis mellifera	Segers et al. (2017)	"Switzerland, Engel apiary"	No
+2751185856	CP015821.1	BBC0244		BBC0244		Bartonella	bapis	Bartonella apis	Apis mellifera	Segers et al. (2017)	"Switzerland, Engel apiary"	No
+	NZ_JACFOU	H3S82		M0192		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFOY	H3S80		M0177		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFOO	H3S83		W8122		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFOW	H3S84		W8098		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFOR	H3S85		M0187		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFOX	H3S89		B10834G6		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFON	H3S90		W8097		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFOL	H3S98		B10834H15		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRR	H3U94		W8125		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSQ	H3V12		W8167		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSJ	H3V13		M0280		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSN	H3V16		W8099		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSK	H3V17		M0283		Bartonella	bapis	Bartonella apis	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+NA	LXYU	PEB0122		PEB0122		Bartonella	bapis	Bartonella apis	Apis mellifera	Segers et al. (2017)	"USA, West Haven"	No
+NA	LXYT	PEB0149		PEB0149		Bartonella	bapis	Bartonella apis	Apis mellifera	Segers et al. (2017)	"USA, West Haven"	No
+NA	LXYS	PEB0150		PEB0150		Bartonella	bapis	Bartonella apis	Apis mellifera	Segers et al. (2017)	"USA, West Haven"	No
+2645727657	NZ_CP011786	Ga0098206	AB656	DSM 22766		Bifido	bifido_bombus	Bifidobacterium actinocoloniiforme	Bumblebee digestive tract	Chen et al. (2015)	Unknown	No
+2600255079	ATLK01000001	Ga0056940	BBOMB	DSM 19703		Bifido	bifido_bombus	Bifidobacterium bombi	Bumblebee?	Milani et al. (2014)	Unknown	No
+2597490239	JGYP01000001	Ga0057557	BBOH	DSM 22767		Bifido	bifido_bombus	Bifidobacterium bohemicum	Bumblebee digestive tract	Milani et al. (2014)	Unknown	No
+2684622916	QGLH00000000	Ga0133549		ESL0170		Bifido	bifido_1.3	Bifidobacterium asteroides	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	No
+2684622918	QGLJ00000000	Ga0133551		ESL0198		Bifido	bifido_1.4	Bifidobacterium asteroides	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	No
+2684622919	QGLK00000000	Ga0133552		ESL0199		Bifido	bifido_1.4	Bifidobacterium asteroides	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	No
+2684622920	QGLL00000000	Ga0133553		ESL0200		Bifido	bifido_1.5	Bifidobacterium asteroides	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	Yes
+2630968953	JWME00000000.1	Ga0072395	JF69	Bin2		Bifido	bifido_1.1	Bifidobacterium asteroides	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland"	No
+2645727966	JWMF00000000.1	Ga0072396	JF70	Bin7		Bifido	bifido_1.2	Bifidobacterium asteroides	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland"	
+2651869778	JXJS00000000.1	Ga0072401	JF71	Hma3		Bifido	bifido_1.4	Bifidobacterium asteroides	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland"	No
+NA	CP003325.1	BAST		PRL2011		Bifido	bifido_1.3	Bifidobacterium asteroides	Apis mellifera	Bottacini et al. (2012)	"""honeybee hindgut"""	Yes
+2808606957	NA	Ga0312305		ESL0447		Bifido	bifido_1_cerana	Bifidobacterium asteroides	Apis cerana	Ellegaard et al. (2020)	"Japan, Tsukuba"	Yes
+	NZ_JACFPC	H3S92		W8130		Bifido	bifido_1.3	Bifidobacterium asteroides	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFPA	H3S93		W8109		Bifido	bifido_1.3	Bifidobacterium asteroides	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRA	H3T89		W8114		Bifido	bifido_1.3	Bifidobacterium	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFPL	H3S97		B14384H11		Bifido	bifido_1.2	Bifidobacterium choladohabitans	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFQF	H3T81		M0109		Bifido	bifido_1.1	Bifidobacterium apousia	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFQZ	H3T86		W8113		Bifido	bifido_1.2	Bifidobacterium choladohabitans	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFQG	H3T90		W8117		Bifido	bifido_1.4	Bifidobacterium polysaccharolyticum	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRB	H3T91		B14448H7		Bifido	bifido_1.4	Bifidobacterium polysaccharolyticum	Apis mellifera	"Wu, J. and Zheng, H."	China	Yes
+	NZ_JACFQN	H3T92		W8112		Bifido	bifido_1.1	Bifidobacterium	Apis mellifera	"Wu, J. and Zheng, H."	China	Yes
+	NZ_JACFQP	H3T93		M0404		Bifido	bifido_1.4	Bifidobacterium	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRU	H3U87		W8101		Bifido	bifido_1.2	Bifidobacterium choladohabitans	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRT	H3U88		W8120		Bifido	bifido_1.1	Bifidobacterium	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRW	H3U89		W8104		Bifido	bifido_1.2	Bifidobacterium	Apis mellifera	"Wu, J. and Zheng, H."	China	Yes
+	NZ_JACFSA	H3U98		W8116		Bifido	bifido_1.2	Bifidobacterium choladohabitans	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSB	H3V04		M0353		Bifido	bifido_1.2	Bifidobacterium	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSC	H3V06		W6238G3		Bifido	bifido_1.4	Bifidobacterium polysaccharolyticum	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2684622917	QGLI00000000	Ga0133550		ESL0197		Bifido	bifido_2	Bifidobacterium indicum/coryneforme	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	No
+2645728051	JXBX00000000.1	Ga0072398	JF68	Bma6		Bifido	bifido_2	Bifidobacterium indicum/coryneforme	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland"	No
+NA	CP006018.1	BINDI		LMG 11587		Bifido	bifido_2	Bifidobacterium indicum	?	Milani et al. (2014)	"""insect"""	Yes
+NA	CP007287	BCOR		LMG 18911		Bifido	bifido_2	Bifidobacterium coryneforme 	Apis mellifera	Milani et al. (2014)	"""honeybee hindgut"""	No
+	NZ_JACFSL	H3V08		M0307		Bifido	bifido_2	Bifidobacterium	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2819902945	CP046394	Ga0372762		ESL_0368		Bombella	bom_1	Bombella	Apis mellifera	Bonilla-Rosso et al. (2019)	"Switzerland, Engel apiary"	Yes
+2756170215	WNIJ00000000	Ga0216357		ESL_0385		Bombella	bom_apis_melli	Bombella	Apis mellifera	Bonilla-Rosso et al. (20190	"Switzerland, Engel apiary"	Yes
+2791354941	NZ_JATM	Ga0308518		R-52487		Bombella	bom_bombus	Bombella intestini	Bombus lapidarius	Li et al. (2016)	Crop of Bombus lapidarius	Yes
+	NZ_CP033087	D9V35		AMU001		Commensalibacter	com_1	Commensalibacter	Apis mellifera	"Siozios, S. et al."	"Mahe Island, Seychelles"	Yes
+	NZ_JACFQT	H3T57		W6292M3		Commensalibacter	com_1	Commensalibacter	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2513237339	AGFR	CIN		A911		Commensalibacter	com_drosophila	Commensalibacter intestini	Drosophila melagenogaster	"Public, not published?"	?	Yes
+2775507278	ATSX	Ga0248239		MX01		Commensalibacter	com_monarch	Commensalibacter	Monarch butterfly	Servin-Garciduenas et al. (2014)	Mexico	Yes
+2639763010	JXBZ00000000.1	Ga0070888	JG29	Hon2		Firm4	firm4_1	Lactobacillus mellis	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland "	No
+2758568560	NA 	Ga0227357		ESL0294		Firm4	firm4_1	Lactobacillus mellis	Apis mellifera	Ellegaard et al. (2020)	"Switzerland, Engel apiary"	No
+2758568559	NA 	Ga0227358		ESL0295		Firm4	firm4_1	Lactobacillus mellis	Apis mellifera	Ellegaard et al. (2020)	"Switzerland, Engel apiary"	No
+2758568557	NA 	Ga0227360		ESL0394		Firm4	firm4_1	Lactobacillus mellis	Apis mellifera	Ellegaard et al. (2020)	"Switzerland, Engel apiary"	No
+2808606958	NA 	Ga0326456		ESL0449		Firm4	firm4_1	Lactobacillus mellis	Apis cerana	Ellegaard et al. (2020)	"Japan, Tsukuba"	Yes
+	NZ_JACFR	H3T38		W8088		Firm4	firm4_1	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2630968413	JXJQ00000000.1	Ga0072399	JG30	Bin4		Firm4	firm4_2	Lactobacillus mellifer	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland"	Yes
+	NZ_JACFPF	H3R26		W8092		Firm4	firm4_2	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2617270727	FOMN00000000	Ga0061072		R-53102		Firm5		Lactobacillus bombicola	Bombus lapidarius	DOE Joint genome institute	"Belgium, Ghent"	
+2684622912	CP029476	Ga0133563		ESL0185		Firm5	firm5_1	Lactobacillus apis	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	Yes
+2617270705	FMAN00000000.1	Ga0061073	R-53131	LMG 26964		Firm5	firm5_1	Lactobacillus apis	Apis mellifera	DOE Joint genome institute	Czech republic (type strain)	No
+2630968657	JXLG00000000.1	Ga0072402 	JF72	ESL0353	Hma11	Firm5	firm5_1	Lactobacillus apis	Apis mellifera	Ellegaard et al.(2015)	"Sweden,Jamtland"	No
+2758568511	REHL00000000	Ga0226842		ESL0263		Firm5	firm5_1	Lactobacillus apis	Apis mellifera	Ellegaard et al. (2019)	"Switzerland, Engel apiary"	No
+	NZ_JACFPG	H3R21		W8172		Firm5	firm5_1	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFPH	H3R25		M0390		Firm5	firm5_1	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFQV	H3T48		M0403		Firm5	firm5_1	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2684622914	CP029544/CP029545	Ga0133561		ESL0183		Firm5	firm5_2	Lactobacillus helsingborgensis	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	Yes
+2645727721	JXJR00000000.1	Ga0072400 	JF73	ESL0354	Bma5	Firm5	firm5_2	Lactobacillus helsingborgensis	Apis mellifera	Ellegaard et al.(2015)	"Sweden, Jamtland"	No
+NA	CP009531	LACWKB8		wkB8		Firm5	firm5_2	Lactobacillus helsingborgensis	Apis mellifera	Kwong et al.(2014a)	"USA, West Haven"	No
+	NZ_JACFRL	H3T47		W8093		Firm5	firm5_2	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	Chine	No
+2684622913	QGLG00000000	Ga0133562		ESL0184		Firm5	firm5_3	Lactobacillus melliventris	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	Yes
+2639762991	JXLI00000000.1	Ga0072404	JF74	ESL0350	Hma8	Firm5	firm5_3	Lactobacillus melliventris	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland"	No
+2758568515	REHP00000000	Ga0225908		ESL0259		Firm5	firm5_3	Lactobacillus melliventris	Apis mellifera	Ellegaard et al. (2019)	"Switzerland, Engel apiary"	No
+2758568513	REHO00000000	Ga0226840		ESL0260		Firm5	firm5_3	Lactobacillus melliventris	Apis mellifera	Ellegaard et al. (2019)	"Switzerland, Engel apiary"	No
+2758568558	NA 	Ga0227359		ESL0393		Firm5	firm5_3	Lactobacillus melliventris	Apis mellifera	Ellegaard et al. (2020)	"Switzerland, Engel apiary"	No
+	NZ_JACFPI	H3R22		W8171		Firm5	firm5_3	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2627854222	JXLH00000000.1	Ga0072403	JF75	ESL0352	Hma2	Firm5	firm5_4	Lactobacillus kimbladii	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland"	No
+2636415759	JXBY00000000.1	Ga0070887	JF76	ESL0351	Biut2	Firm5	firm5_4	Lactobacillus kullabergensis	Apis mellifera	Ellegaard et al. (2015)	"Sweden, Jamtland"	No
+NA	JRJB00000000	LACWKB10		wkB10		Firm5	firm5_4	Lactobacillus kullabergensis	Apis mellifera	Kwong et al.(2014a)	"USA, West Haven"	No
+2758568514	REHN00000000	Ga0226839		ESL0261		Firm5	firm5_4	Lactobacillus kullabergensis	Apis mellifera	Ellegaard et al. (2019)	"Switzerland, Engel apiary"	No
+2684622911	CP029477	Ga0133564		ESL0186		Firm5	firm5_4	Lactobacillus kulllabergensis	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	Yes
+	NZ_JACFQE	H3T43		M0396		Firm5	firm5_4	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRN	H3U49		W8174		Firm5	firm5_4	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2758568501	NZ_REHJ	Ga0226852		ESL0228		Firm5	firm5_bombus_1	Lactobacillus bombicola	Bombus bohemicus	"Ellegaard, K. M., et al."	"Switzerland, Le Moleson"	Yes
+2758568510	NZ_REHH	Ga0226843		ESL0233		Firm5	firm5_bombus_2	Lactobacillus bombicola	Bombus terrestris	"Ellegaard, K. M., et al."	"Switzerland, Lausanne"	No
+2758568506	NZ_REHI	Ga0226847		ESL0230		Firm5	firm5_bombus_2	Lactobacillus bombicola	Bombus pascuorum	"Ellegaard, K. M., et al."	"Switzerland, Le Moleson"	Yes
+2785510748	NA 	Ga0307804	Ig15423	ESL0409		Firm5	firm5_7	Lactobacillus panisapium	Apis cerana	Ellegaard et al. (2020)	"Japan, Yokohama"	No
+2799112220	NA 	Ga0311394		ESL0411		Firm5	firm5_7	Lactobacillus panisapium	Apis cerana	Ellegaard et al. (2020)	"Japan, Yokohama"	No
+2799112229	NA 	Ga0312303		ESL0413		Firm5	firm5_7	Lactobacillus panisapium	Apis cerana	Ellegaard et al. (2020)	"Japan, Yokohama"	Yes
+2799112230	NA 	Ga0312304		ESL0416		Firm5	fimr5_7	Lactobacillus panisapium	Apis cerana	Ellegaard et al. (2020)	"Japan, Yokohama"	No
+2630968947	CP009056.1	Ga0077910	FPB0191	ESL0034	PEB0191	Frischella	fper_1	Frischella perrara	Apis mellifera	Engel et al. (2015)	"USA, West Haven"	Yes
+2684622921	QGLM00000000	Ga0133554		ESL0167		Frischella	fper_1	Frischella perrara	Apis mellifera	Ellegaard_Engel(2018)	"Switzerland, Engel apiary"	No
+NA	2849328148	Ga0418777		Fper_2		Frischella	fper_2	Fper_2	Frischella spp.	Apis cerana	Unpublished	Yes
+2684622925	QGLQ	Ga0133559		ESL0178		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	No
+2574179809	CP007445.1	GAPWK		wkB1		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera	Kwong et al. (2014b)	"USA, West Haven"	Yes
+NA	NARY	B6D22		AM4		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera	Ludvigsen et al. (2017)	" USA, Arizona"	No
+NA	LZGJ	A9G14		P54G		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera	Zheng et al. (2016)	"USA, Austin"	No
+NA	CM004509.1	A9G17		wkB7		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera	Zheng et al. (2016)	"USA, Austin"	No
+NA	NZ_NASA00000000 	B6D03 		N-G5 		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+NA	NZ_NASB00000000 	B6D19 		N-22 		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+NA	NZ_NARP00000000 	B6D08 		A-7-12 		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera 	Ludvigsen et al. (2017)	"""USA: Arizona"" "	No
+	NZ_MZNE	B5S40		A-1-24		Gilliamella	gilli_1	Gilliamella apicola	Apis mellifera	Ludvigsen et al. (2017)	"USA, Arizona"	No
+	NZ_JACFPU	H3S73		B14384G12		Gilliamella	gilli_1	Gilliamella	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFQU	H3T96		W8136		Gilliamella	gilli_1	Gilliamella	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2684622922	QGLN	Ga0133555		ESL0169		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	Yes
+2684622923	QGLO	Ga0133556		ESL0172		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	No
+NA	NAST	B6C99		N-G2		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera	Ludvigsen et al. (2017)	"Norway, Aas"	No
+NA	NASN	B6D18		A7		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera	Ludvigsen et al. (2017)	"USA, Arizona"	No
+NA	LZGH	A9G16		P83G		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera	Zheng et al. (2016)	"USA, Austin"	No
+NA	LZGQ	A9G19		M1-2G		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera	Zheng et al. (2016)	"USA, Austin"	No
+NA	LZGI	A9G15		P62G		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera	Zheng et al. (2016) 	"USA, Austin"	No
+NA	NZ_NASJ00000000 	B6C96 		NO15 		Gilli-2		Gilliamella apis	Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+NA	NZ_NASV00000000 	B6D14 		N-G4 		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+NA	NZ_NASS00000000 	B6D17 		N-G1 		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+NA	NZ_NASL00000000 	B6D21 		AM1 		Gilli-2		Gilliamella apis	Apis mellifera 	Ludvigsen et al. (2017)	"""USA: Arizona"" "	No
+	NZ_NASE	B6C88		NO16		Gilliamella	gilli_2	Gilliamella apis	Apis mellifera	Ludvigsen et al. (2017)	"Norway, Aas"	No
+	NZ_JACFSF	H3U96		M0364		Gilliamella	gilli_2	Gilliamella	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRC	H3T80		W8145		Gilliamella	gilli_2	Gilliamella	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRE	H3T56		W8123		Gilliamella	gilli_2	Gilliamella	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFQD	H3T83		M0320		Gilliamella	gilli_2	Gilliamella	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSE	H3U97		W8128		Gilliamella	gilli_2	Gilliamella	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2684622924	QGLP	Ga0133557		ESL0177		Gilliamella	gilli_3	NA	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	Yes
+2684622926	QGLR	Ga0133558		ESL0182		Gilliamella	gilli_3	NA	Apis mellifera	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	No
+2785510746	NA 	Ga0307802		ESL0441		Gilliamella	gilli_4	NA	Apis cerana	Ellegaard et al. (2020)	"Tsukuba, Japan"	Yes
+NA	LZGN	A9G10 		wkB308 		Gilliamella	gilli_4	NA	Apis cerana 	Zheng et al. (2016)	"""USA: Austin"" "	No
+2785510744	NA 	Ga0307800		ESL0405		Gilliamella	gilli_5	NA	Apis cerana	Ellegaard et al. (2020)	"Yokohama, Japan"	Yes
+2785510747	NA 	Ga0307803		ESL0443		Gilliamella	gilli_6	NA	Apis cerana 	Ellegaard et al. (2020)	"Tsukuba, Japan"	Yes
+NA	LZEI	A9G07 		wkB72 		Gilliamella	gilli_6	NA	Apis cerana 	Zheng et al. (2016)	"""USA: Austin"" "	No
+NA	LZGP	A9G08 		wkB195 		Gilliamella	gilli_6	NA	Apis cerana 	Zheng et al. (2016)	"""USA: Austin"" "	No
+NA	LZGO	A9G09 		wkB292 		Gilliamella		NA	Apis cerana 	Zheng et al. (2016)	"""USA: Austin"" "	No
+	NZ_LYST	A9G03		wkB171		Gilliamella	gilli_apis_andre	Gilliamella apicola	Apis andreniformis	Zheng et al.	"USA, Austin"	Yes
+NA	LZGM	A9G11 		wkB108 		Gilliamella	gilli_apis_dorsa	NA	Apis dorsata 	Zheng et al. (2016)	"""USA: Austin"" "	No
+NA	LZGL	A9G12 		wkB112 		Gilliamella	gilli_apis_dorsa	NA	Apis dorsata 	Zheng et al. (2016)	"""USA: Austin"" "	No
+NA	LZGK	A9G13 		wkB178 		Gilliamella	gilli_apis_dorsa	NA	Apis dorsata 	Zheng et al. (2016)	"""USA: Austin"" "	Yes
+NA	LZGS	A9G23 		App4-10 		Gilliamella	gilli_bombus	NA	Bombus appositus	Zheng et al. (2016)	"""USA: Austin"" "	No
+NA	LZGT	A9G24 		App6-5 		Gilliamella	gilli_bombus	NA	Bombus appositus	Zheng et al. (2016)	"""USA: Austin"" "	No
+	LZGY	A9G29		Fer2-1		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus fervidus	Zheng et al. (2016)	"""USA: Austin"" "	No
+2609460056	JFON	Ga0055041		wkB11		Gilliamella		NA	Bombus bimaculatus	Kwong et al. (2014b)	"USA, West Haven"	No
+	NZ_LZGZ	A9G30		Fer4-1		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus fervidus	Zheng et al. (2016)	"""USA: Austin"" "	No
+NA	LZHA	A9G31 		Gris1-4 		Gilliamella		NA	Bombus griseocollis	Zheng et al. (2016)	"""USA: Austin"" "	No
+	NZ_LZHB	A9G32		Gris3-2		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus griseocollis	Zheng et al. (2016)	"USA, Austin"	No
+NA	LZHH	A9G35 		Choc5-1 		Gilliamella	gilli_bombus	NA	Bombus impatiens	Zheng et al. (2016)	"""USA: Austin"" "	No
+	NZ_LZHJ	A9G37		GilliExp13		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus impatiens	Zheng et al. (2016)	"""USA: Austin"" "	No
+	NZ_LZHK	A9G38		Imp1-1		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus impatiens	Zheng et al. (2016)	"""USA: Austin"" "	No
+	LZHL	A9G39		Imp1-6		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus impatiens	Zheng et al. (2016)	"""USA: Austin"" "	No
+	NZ_LZHO	A9G41		Nev5-1		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus nevadensis	Zheng et al. (2016)	"""USA: Austin"" "	No
+	NZ_LZHP	A9G42		Nev6-6		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus nevadensis	Zheng et al. (2016)	"""USA: Austin"" "	No
+NA	LZHQ	A9G43 		Occ3-1 		Gilliamella		NA	Bombus occidentalis	Zheng et al. (2016)	"""USA: Austin"" "	No
+	NZ_LZHR	A9G44		Occ4-3		Gilliamella	gilli_bombus	Gilliamella apicola	Bombus occidentalis	Zheng et al. (2016)	"""USA: Austin"" "	No
+NA	LZGW	A9G47 		WF3-4 		Gilliamella	gilli_bombus	NA	Bombus pensylvanicus 	Zheng et al. (2016)	"""USA: Austin"" "	No
+2758568604	NA 	Ga0227298		ESL0232		Gilliamella	gilli_bombus	NA	Bombus terrestris	Ellegaard et al. (2020)		No
+2758568603	NA 	Ga0227301		ESL0250		Gilliamella	gilli_bombus	NA	Bombus pascuorum	Ellegaard et al. (2020)		No
+2758568602	NA 	Ga0227302		ESL0254		Gilliamella	gilli_bombus	NA	Bombus pascuorum	Ellegaard et al. (2020)		Yes
+2617270738	NA 	Ga0061080		R-53144		Gilliamella	gilli_bombus	Gilliamella intestini	soil?	JGI/Praet et al. (2017)		No
+2639763093	JXCU	Ga0098617		Fhon2		Lkunkeei	lkun	Lactobacillus	Apis mellifera	Tamarit et al. (2015)	"Sweden, Jamtland"	Yes
+2791355381	JXCT	Ga0308523		Fhon13		Lkunkeei	lkun	Lactobacillus	Apis mellifera	Tamarit et al. (2015)	"Sweden, Jamtland"	No
+	NZ_JACFQW	H3T37		M0345		Lkunkeei	lkun	Lactobacillus	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+2811994808	QGLS	Ga0326500		ESL0196		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ellegaard_Engel (2018)	"Switzerland, Engel apiary"	No
+2585428136	CP007446.1	SALWKB2		wkB2		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Kwong et al. (2014b)	"USA, West Haven"	Yes
+NA	NZ_NXEN01000131	CPT77		E1		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ludvigsen et al. (2017)	"""USA: Arizona State University, Tempe Campus"""	No
+NA	NZ_MVDP01000065 	BGH94 		Aw-20 		Snod_1			Apis mellifera 	Ludvigsen et al. (2017)	"""USA: Arizona"" "	No
+	NZ_NAGW	BGH95		Aw-18		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	Ludvigsen et al. (2017)	"""USA: Arizona"" "	No
+NA	NZ_NAGX01000214 	BGH96 		A12 		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ludvigsen et al. (2017)	"""USA: Arizona"" "	No
+	NZ_NAGY	BGH97		A-10-12		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	Ludvigsen et al. (2017)	"""USA: Arizona"" "	No
+NA	NZ_NAHB01000058 	BGI00 		A-1-12 		Snod_1			Apis mellifera 	Ludvigsen et al. (2017)	"""USA: Arizona"" "	No
+NA	NZ_NAHC01000084 	BGI01 		A2 		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ludvigsen et al. (2017)	"""USA: Arizona"" "	No
+NA	NZ_NAHJ01000062 	BGI08 		N-W7 		Snod_1			Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+NA	NZ_NAHK01000129 	BGI09 		N9 		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+NA	NZ_NAHN01000079 	BGI12 		N-S3 		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+NA	NZ_NAHO01000038 	BGI13 		N-S4 		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ludvigsen et al. (2017)	"""Norway: Aas"" "	No
+	NZ_MEIJ	BHC42		wkB332		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	Steele et al. (2017)	"Malaysia, Genting"	No
+NA	MEIV	BHC47 		PEB0171 		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Steele et al. (2017)	"""USA: New Haven, CT"" "	No
+NA	MEII	BHC50 		wkB339 		Snod_1			Apis mellifera 	Steele et al. (2017)	"""Malaysia: Genting"" "	No
+NA	MEIX	BHC52 		MS1-3 		Snod_1			Apis mellifera 	Steele et al. (2017)	"""USA: Austin, TX"" "	No
+2758568599	NA	Ga0227305		ESL0323		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ellegaard et al. (2020)	"Switzerland, Engel apiary"	No
+2758568598	NA	Ga0227306		ESL0324		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera 	Ellegaard et al. (2020)	"Switzerland, Engel apiary"	No
+2758568600	NA	Ga0227304		ESL0304		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	Ellegaard et al. (2020)	"Switzerland, Engel apiary"	No
+	NZ_JACFRP	H3U73		W8124		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFQX	H3T75		W8135		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFQK	H3T79		M0118		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFRQ	H3U82		W8132		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSI	H3V10		W6238H14		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSG	H3V01		M0351		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+	NZ_JACFSM	H3V11		W8158		Snodgrassella	snod_1	Snodgrassella alvi	Apis mellifera	"Wu, J. and Zheng, H."	China	No
+NA	MEIM	BHC53 		wkB237 		Snodgrassella	snod_2		Apis andreiformis	Steele et al. (2017)	"""Singapore: Hort Park"" "	Yes
+NA	MEIK	BHC43 		wkB298 		Snodgrassella	snod_2		Apis cerana	Steele et al. (2017)	"""Singapore: Hort Park"" "	No
+NA	MEIL	BHC54 		wkB273 		Snodgrassella	snod_2		Apis florea	Steele et al. (2017)	"""Singapore: Clementi Park"" "	No
+NA	MEIR	BHC44 		Nev4-2 		Snodgrassella	snod_bombus		Bombus nevadensis	Steele et al. (2017)	"""USA"" "	No
+	NZ_MEIP	BHC46		Ruf1-X		Snodgrassella	snod_bombus	Snodgrassella alvi	Bombus rufocinctus	Steele et al. (2017)	USA	No
+NA	MEIQ	BHC48 		Occ4-2 		Snodgrassella	snod_bombus		Bombus occidentalis	Steele et al. (2017)	"""USA"" "	No
+NA	MEIU	BHC57 		HK3 		Snodgrassella	snod_bombus		Bombus pensylvanicus	Steele et al. (2017)	"""USA"" "	No
+	NZ_MDVB	BGI32		App2-2		Snodgrassella	snod_bombus		Bombus appositus	Steele et al. (2017)	"""USA"" "	No
+	NZ_MDVD	BGI34		App6-4		Snodgrassella	snod_bombus		Bombus appositus	Steele et al. (2017)	"""USA"" "	No
+	NZ_MDVF	BGI36		Fer2-2		Snodgrassella	snod_bombus		Bombus fervidus	Steele et al. (2017)	"""USA"" "	No
+2585427850	JFZW	SALWKB12		wkB12		Snodgrassella	snod_bombus		Bombus bimaculatus	Kwong et al. (2014b)	"USA, West Haven"	Yes
+2758568596	NA	Ga0227310		ESL0253		Snodgrassella	snod_bombus		Bombus pascuorum	Ellegaard et al. (2020)	"Switzerland, Engel apiary"	No
