@@ -48,12 +48,15 @@ Then you can run `00_data_preparation.sh` script. \
 
 **Community composition analysis**
 
-This one should be straightforward.
+This one should be straightforward. \
 
 ```./01_community_composition_analysis.sh```
 
 **Strain-level analysis**
 
+Same here. \
+
+```./02_strain-level_analysis.sh```
 
 **Functional gene content analysis**
 
