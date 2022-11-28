@@ -35,7 +35,9 @@ In terms of software, the scripts require:
 * [freebayes] (https://github.com/freebayes/freebayes) (for the detection of single nucleotide polymorphisms) (version v1.3.1-19-g54bf409, should be added to the path)
 * [fastQC] (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) (quality check of the input data) (should be added to the path)
 * [Trimmomatic] (https://github.com/usadellab/Trimmomatic) (trimming of the reads and removal of the sequencing adapters) (version 0.35, should be added to the path)
-
+* [prodigal] (detection of ORFs) (version 2.6.3, should be added to the path)
+* [OrthoFinder] (creation of orthologous groups of gene and orf catalogue) (version 2.3.5, should be added to the path)
+* [eggnog] (annotation of the gene and ORF catalogue) (version 1.0.3-33-g70ff1ab, should be added to the path)
 
 Running the pipeline
 --------
@@ -43,21 +45,24 @@ Running the pipeline
 **Data preparation: mapping and filtering**
 
 First, download all he necessary data. These are the raw sequencing reads (which should be put in a `raw_reads` directory), the reference database (`beebiome_db`) and the qPCR data (`qPCR_data`).
-Then you can run `00_data_preparation.sh` script. \
+Then you can run `00_data_preparation.sh` script.  
 ```./00_data_preparation.sh```
 
 **Community composition analysis**
 
-This one should be straightforward. \
+This one should be straightforward.  
 
 ```./01_community_composition_analysis.sh```
 
 **Strain-level analysis**
 
-Same here. \
+Same here.  
 
 ```./02_strain-level_analysis.sh```
 
 **Functional gene content analysis**
 
+And here too.  
+
+```./03_functional_gene_content.sh```
 
