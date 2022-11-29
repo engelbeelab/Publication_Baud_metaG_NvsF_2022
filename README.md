@@ -31,13 +31,13 @@ In terms of software, the scripts require:
 * R  (version 4.2.1, including packages: "segmented", "plyr", "ape" (version 5.6-2), "data.table" (version 1.14.2), "qvalue" (version 2.28.0), "PERMANOVA" (version 0.2.0), "vegan" (2.6-2), "ggplot2" (version 3.3.6), "reshape" (version 0.8.9), "gridExtra" (version 2.3), "ggrepel" (version 0.9.1), "RColorBrewer" (version 1.1-3) and "scales" (version 1.2.1))
 * [samtools](http://www.htslib.org) (version  1.15-8-gbdc5bb8, should be added to the path)
 * [bwa](https://github.com/lh3/bwa) (for the mapping) (version 0.7.15-r1142-dirty, should be added to the path)
-* [SPAdes] (https://github.com/ablab/spades) (for the assemblies) (version 3.10.1, should be added to the path)
-* [freebayes] (https://github.com/freebayes/freebayes) (for the detection of single nucleotide polymorphisms) (version v1.3.1-19-g54bf409, should be added to the path)
-* [fastQC] (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) (quality check of the input data) (should be added to the path)
-* [Trimmomatic] (https://github.com/usadellab/Trimmomatic) (trimming of the reads and removal of the sequencing adapters) (version 0.35, should be added to the path)
-* [prodigal] (detection of ORFs) (version 2.6.3, should be added to the path)
-* [OrthoFinder] (creation of orthologous groups of gene and orf catalogue) (version 2.3.5, should be added to the path)
-* [eggnog] (annotation of the gene and ORF catalogue) (version 1.0.3-33-g70ff1ab, should be added to the path)
+* [SPAdes](https://github.com/ablab/spades) (for the assemblies) (version 3.10.1, should be added to the path)
+* [freebayes](https://github.com/freebayes/freebayes) (for the detection of single nucleotide polymorphisms) (version v1.3.1-19-g54bf409, should be added to the path)
+* [fastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) (quality check of the input data) (should be added to the path)
+* [Trimmomatic](https://github.com/usadellab/Trimmomatic) (trimming of the reads and removal of the sequencing adapters) (version 0.35, should be added to the path)
+* [prodigal](https://github.com/hyattpd/Prodigal) (detection of ORFs) (version 2.6.3, should be added to the path)
+* [OrthoFinder](https://github.com/davidemms/OrthoFinder) (creation of orthologous groups of gene and orf catalogue) (version 2.3.5, should be added to the path)
+* [eggnog](https://github.com/eggnogdb/eggnog-mapper) (annotation of the gene and ORF catalogue) (version 1.0.3-33-g70ff1ab, should be added to the path)
 
 Running the pipeline
 --------
