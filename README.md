@@ -22,7 +22,7 @@ If you are using the scripts found here, please cite them as well.
 Pre-requisites
 ----------
 
-The scripts and analyses rely on a genomic database built by Kirsten Ellegaard ([zenodo_link](https://zenodo.org/record/4661061#.YGmkRy0RoRA)), which contains mostly genomes of bacteria previously isolated from guts of *Apis mellifera*, *Apis cerana* and bumble bee species.
+The scripts and analyses rely on a manually curated database of bacterial strain genomes built by Kirsten Ellegaard ([beebiome_db](https://drive.switch.ch/index.php/s/vHmM6aIIFyDGQwm)). These strains were mostly isolated from guts of *Apis mellifera*, *Apis cerana* and bumble bee species.
 
 In terms of software, the scripts require:
 
