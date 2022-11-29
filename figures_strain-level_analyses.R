@@ -10,7 +10,7 @@ library(scales)
 library(PERMANOVA)
 
 #Filepaths
-qPCR_datapath <- "./qPCR_data/"
+qPCR_datapath <- "./"
 datapath <- "./strain-level_analysis/"
 figpath <- "./strain-level_analysis/"
 metadatapath <- "./db_metadata_GB.txt"

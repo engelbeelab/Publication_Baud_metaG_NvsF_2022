@@ -9,7 +9,6 @@ library(qvalue)
 library(vegan)
 
 #Filepaths
-qPCR_datapath <- "./qPCR_data/"
 datapath_raw <- "./"
 datapath <- "./community_composition/"
 figpath <- "./community_composition/"
@@ -65,7 +64,7 @@ actin_slope = -3.2699442250388
 UV_intercept = 36.5821936471122
 UV_slope = -3.35085896083287
 
-filepath <- paste0(qPCR_datapath, "20190813_AllHives.csv")
+filepath <- paste0(datapath_raw, "20190813_AllHives.csv")
 CT_dt <- fread(filepath, skip="Well Position")
 CT_dt <- fread(filepath, skip="Well Position", nrows = CT_dt[,sum(CT != '')])
 CT_dt <- merge(CT_dt[, mean(as.numeric(CT), na.rm=TRUE), keyby=c("Sample Name", "Target Name")], 

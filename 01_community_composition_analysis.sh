@@ -18,7 +18,7 @@ bwa index beebiome_db/beebiome_db
 
 map_and_filter () {
 	tmp="${1%_R1_*}"
-        sample_tag="${tmp##*/}"
+    sample_tag="${tmp##*/}"
 	file2="${tmp}_R2_combined.fastq.gz"
 
 	echo "${sample_tag}"
@@ -63,6 +63,8 @@ done
 echo "Mapping and filtering done. Starting terminus coverage regression."
 
 cd community_composition
+ln -s ../core_cov.pl .
+ln -s ../core_cov.R .
 ln -s ../mapping_full_db/*_filt2x_sorted.bam .
 ln -s ../beebiome_db/bed_files/*.bed .
 ln -s ../beebiome_db/single_ortho_files/*_single_ortho.txt .
