@@ -16,8 +16,6 @@ mkdir functional_gene_content
 
 #First, map beebiome-unmapped reads to the honeybee genome, and extract honeybee-unmapped reads.
 
-bwa index beebiome_db/honeybee_genome
-
 map_and_filter () {
 	tmp="${1%_vs_db_unmapped_R1*}"
     	sample_tag="${tmp##*/}"
@@ -100,10 +98,11 @@ echo "ORF predicted and filtered. Starting binning."
 cat assemblies/*_filt.ffn > functional_gene_content/all_filt.ffn
 cat assemblies/*_filt.faa > functional_gene_content/all_filt.faa
 
-makeblastdb -dbtype 'nucl' -in beebiome_db/all_beebiome_genes_concat.ffn
-bwa index beebiome_db/all_beebiome_genes_concat.ffn
+cat beebiome_db/ffn_files/*.ffn > functional_gene_content/all_beebiome_genes_concat.ffn
+makeblastdb -dbtype 'nucl' -in functional_gene_content/all_beebiome_genes_concat.ffn
+bwa index functional_gene_content/all_beebiome_genes_concat.ffn
 
-blastn -db beebiome_db/all_beebiome_genes_concat.ffn -query functional_gene_content/all_filt.ffn  -num_threads 10 -max_target_seqs 1 -outfmt '6 qseqid sseqid evalue bitscore pident length qcovs' > functional_gene_content/all_filt_ffn.blastn
+blastn -db functional_gene_content/all_beebiome_genes_concat.ffn -query functional_gene_content/all_filt.ffn  -num_threads 10 -max_target_seqs 1 -outfmt '6 qseqid sseqid evalue bitscore pident length qcovs' > functional_gene_content/all_filt_ffn.blastn
 
 awk -F'\t' ' $5>=50 && $7>=50 && $3<1e-05 { pid[$1][$2]=$5; lin[$1][$2]=$0 } END { for (i in pid) { bestpid=0; best=0; for (j in pid[i]) { if (pid[i][j]>bestpid) { bestpid=pid[i][j]; best=j } } print lin[i][best] } }' functional_gene_content/all_filt_ffn.blastn > functional_gene_content/all_filt_ffn.blastn.1.filt #Filtering blast results
 
@@ -142,7 +141,7 @@ for d in functional_gene_content/faa_files/* ; do
 	sed 's/://g' $d/OrthoFinder/$tmp/Orthogroups/Orthogroups.txt | awk -v sdp=$sdp ' { print sdp"_"$0 } ' - >> functional_gene_content/all_OGs.txt
 done
 > functional_gene_content/core_OGs_list.txt
-for f in beebiome_db/*_ortho_filt.txt ; do
+for f in beebiome_db/single_ortho_filt/*_ortho_filt.txt ; do
         tmp="${f%_single_ortho_filt.txt}"
 	phylo=${f##*/}
         echo $phylo
@@ -151,7 +150,7 @@ done #Looking for coreness information for each OG.
 
 #Creating the genes and orfs catalogue for the mapping.
 
-cat functional_gene_content/all_filt.ffn beebiome_db/all_beebiome_genes_concat.ffn > functional_gene_content/orfs_and_genes_catalogue.ffn
+cat functional_gene_content/all_filt.ffn functional_gene_content/all_beebiome_genes_concat.ffn > functional_gene_content/orfs_and_genes_catalogue.ffn
 bwa index functional_gene_content/orfs_and_genes_catalogue.ffn
 
 for f in functional_gene_content/*_non-host_R1.fastq.gz ; do 
