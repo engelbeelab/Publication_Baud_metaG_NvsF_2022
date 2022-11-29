@@ -44,7 +44,7 @@ Running the pipeline
 
 **Data preparation: mapping and filtering**
 
-First, download all he necessary data. These are the raw sequencing reads (which should be put in a `raw_reads` directory), the reference database (`beebiome_db`) and the qPCR data (`qPCR_data`).
+First, download all he necessary data. These are the raw sequencing reads (which should be put in a `raw_reads` directory)and the reference database (`beebiome_db`).
 Then you can run `00_data_preparation.sh` script.  
 ```./00_data_preparation.sh```
 
